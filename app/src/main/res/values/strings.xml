@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cure Home</string>
+    <string name="app_solution">Solution</string>
+    <string name="app_Deteksi_Asap">Deteksi Asap</string>
+    <string name="lampu">Lampu</string>
+    <string name="pintu">Pintu</string>
+</resources>
